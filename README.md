@@ -1,2 +1,2 @@
 # send-sms-with-cordova-plugins
-Test on sending SMS with [Cordova plugin](https://github.com/cordova-sms/cordova-sms-plugin).
+Test on sending SMS with [Cordova FeedHenry SMS plugin](https://github.com/feedhenry/sms-builder).

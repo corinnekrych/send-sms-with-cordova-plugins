@@ -37,7 +37,7 @@ var app = {
 
         var success = function () { alert('Message sent successfully'); };
         var error = function (e) { alert('Message Failed:' + e); };
-        smsBuilder.showSMSBuilder(number, message);
+        window.plugins.smsBuilder.showSMSBuilder(number, message);
     },
     // deviceready Event Handler
     //
