@@ -22,10 +22,11 @@
     <plugin name="cordova-plugin-whitelist" spec="1.2.2"/>
     <plugin name="cordova-plugin-screen-orientation" spec="v1.4.2"/>
     <plugin name="fh-cordova-plugin-device" spec="https://github.com/feedhenry/fh-cordova-plugin-device.git#fh0.0.3"/>
+    <plugin name="com.feedhenry.plugins.apkdownloader" spec="https://github.com/feedhenry/fh-cordova-plugin-apkdownloader.git#fh0.0.1"/>
     <plugin name="cordova-sms-plugin" spec="v0.1.11"/>
     <plugin name="cordova-plugin-statusbar" spec="~2.2.1"/>
     <plugin name="fh-cordova-plugin-smsbuilder" spec="https://github.com/feedhenry/sms-builder.git#fh0.1.2"/>
-<!--     <plugin name="fh-cordova-plugin-ftputil" spec="https://github.com/corinnekrych/fh-cordova-plugin-ftputil.git#RHMAP-13155.replace.deprecated.methods"/> -->
+    <plugin name="fh-cordova-plugin-ftputil" spec="https://github.com/feedhenry/fh-cordova-plugin-ftputil.git#fh0.0.2"/>
     <plugin name="cordova-plugin-splashscreen" spec="~4.0.1"/>
     <preference name="ShowSplashScreenSpinner" value="true"/>
     <preference name="AutoHideSplashScreen" value="true"/>
