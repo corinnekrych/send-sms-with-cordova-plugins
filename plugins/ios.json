@@ -1,0 +1,98 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        },
+        "cordova-plugin-camera": {
+            "CAMERA_USAGE_DESCRIPTION": " ",
+            "PHOTOLIBRARY_USAGE_DESCRIPTION": " ",
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        },
+        "cordova-plugin-geolocation": {
+            "GEOLOCATION_USAGE_DESCRIPTION": " ",
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        },
+        "cordova-plugin-media": {
+            "MICROPHONE_USAGE_DESCRIPTION": " ",
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        },
+        "cordova-plugin-media-capture": {
+            "CAMERA_USAGE_DESCRIPTION": " ",
+            "MICROPHONE_USAGE_DESCRIPTION": " ",
+            "PHOTOLIBRARY_USAGE_DESCRIPTION": " ",
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        },
+        "cordova-plugin-screen-orientation": {
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        },
+        "cordova-sms-plugin": {
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        },
+        "fh-cordova-plugin-device": {
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        },
+        "fh-cordova-plugin-ftputil": {
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        },
+        "fh-cordova-plugin-smsbuilder": {
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        },
+        "org.apache.cordova.vibration": {
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "org.feedhenry.dart.helloworld.cordova"
+        }
+    }
+}
